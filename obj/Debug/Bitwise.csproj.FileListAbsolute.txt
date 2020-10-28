@@ -1,0 +1,7 @@
+C:\Users\Maitri\source\repos\Practice\Bitwise\bin\Debug\Bitwise.exe.config
+C:\Users\Maitri\source\repos\Practice\Bitwise\bin\Debug\Bitwise.exe
+C:\Users\Maitri\source\repos\Practice\Bitwise\bin\Debug\Bitwise.pdb
+C:\Users\Maitri\source\repos\Practice\Bitwise\obj\Debug\Bitwise.csprojAssemblyReference.cache
+C:\Users\Maitri\source\repos\Practice\Bitwise\obj\Debug\Bitwise.csproj.CoreCompileInputs.cache
+C:\Users\Maitri\source\repos\Practice\Bitwise\obj\Debug\Bitwise.exe
+C:\Users\Maitri\source\repos\Practice\Bitwise\obj\Debug\Bitwise.pdb
